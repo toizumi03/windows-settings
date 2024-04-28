@@ -52,3 +52,6 @@ winget install Beeftext.Beeftext
 
 #Logitech.Options
 winget install Logitech.Options
+
+#Python 3.11
+winget install Python.Python.3.11
