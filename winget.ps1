@@ -47,6 +47,9 @@ winget install WiresharkFoundation.Wireshark
 #Stream Deck
 winget install Elgato.StreamDeck
 
+#Zoom
+winget install Zoom.Zoom
+
 #Beef Text
 winget install Beeftext.Beeftext
 
